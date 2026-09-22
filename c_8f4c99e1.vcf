@@ -1,6 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:TEster Ho
+FN:SERENE Ho
 TEL:+60123456789
-EMAIL:your.email@example.com
+EMAIL:sereneho@example.com
+ORG:BYT HVAC SOLUTIONS S/B
+TITLE:Director
 END:VCARD
